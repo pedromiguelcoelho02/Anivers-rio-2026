@@ -1,0 +1,12 @@
+# Ambiente Python (uv) e binário do cloudflared
+.env/
+__pycache__/
+
+# Testes e ficheiros temporários
+.playwright-mcp/
+*.log
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
